@@ -14,10 +14,13 @@ Louise’s play Fever almost reached it's fundraising goal in a short time. The 
 
 ### Analysis Overview
 There were two different analyses done. 
+
 1. The first was to examine the outcome of Kickstarter campaigns with respect to the launch date of the campaign. Pivot tables and charts were used for this analysis and the pivot chart comparing campaign outcomes depending on start month of the campaign is shown below.
 
 ![range metrics](resources/Theater_Outcomes_vs_Launch.png)
 
+2. The second was to examine the outcome of Kickstart campaigns with respect to the campaign goal amount. Excel formulas were primarily used for this analysis and the line graph comparing campaign outcomes depending on goal ranges is shown below.
 
-2. The second was to examine the outcome of Kickstart campaigns with respect to the campaign goal amount.
+![range metrics](resources/Outcomes_vs_Goals.png)
+
 ## Results
