@@ -5,7 +5,7 @@
 ### Background
 Louise is an up and coming playwright who wants to start a crowfunding campaign to fund her play, Fever. We are trying to help her by analyzing a dataset to determine if there are certain factors that make a campaign successful.
 
-For the purpose of this analysis, we are using a Kickstarter dataset. [Dataset Link](/Kickstarter_challenge.xlsx)
+For the purpose of this analysis, we are using a Kickstarter dataset. [Dataset Link](./Kickstarter_challenge.xlsx)
 
 
 ### Purpose
