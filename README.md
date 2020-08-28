@@ -23,4 +23,23 @@ There were two different analyses done.
 
 ![range metrics](resources/Outcomes_vs_Goals.png)
 
+### Challenges
+
+One of the possible challenges that can be encountered is that the initial set of data doesn't have a clear formatting on launch date and deadline date and it's a blocker to the analysis unless it's converted to a format that excel can work with.
+
 ## Results
+
+### Conclusions based on Theater outcomes based on Launch Date
+
+1. The month of may had the highest number launched campaigns that were successful.
+2. There is almost of a 50-50 chance of success/failure for campaigns launched in Decemeber.
+
+### Conclusion based on Outcomes based on goals
+
+1. The percentage of successful campaings dropped as the range of the goal increased. Essentially, higher the goal amount, lower the chance of succcess. (This conclusion is skewed at very high goal ranges due to the low number of data points present)
+
+### Limitations of dataset, recommendations
+
+There are a lot of subjective factors that could lead to the success of a campaign. For example, there are several campaigns which are successful with very low number of backers. It could be a factor of involvement from friends and family or a very enthusiastic backer. The limitation of the dataset is that it's hard to capture these subjective factors and hence it's limited in possibilties.
+
+A campaign that is staff picked may have a higher chance of success. A campaign that is backed by spotlight may have a higher chance of success. These are items for further analysis with graphs like staff picked vs outcomes and spotlight vs outcomes.
