@@ -26,7 +26,7 @@ There were two different analyses done.
 
 ### Challenges
 
-One of the possible challenges that can be encountered is that the initial set of data doesn't have a clear formatting on launch date and deadline date and it's a blocker to the analysis unless it's converted to a format that excel can work with.
+One of the possible challenges that can be encountered is that the initial set of data doesn't have a clear formatting on launch date and deadline date and it's a blocker to the analysis unless it's converted to a format that works with excel.
 
 ## Results
 
